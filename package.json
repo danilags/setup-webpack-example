@@ -18,6 +18,14 @@
   },
   "homepage": "https://github.com/danilags/setup-webpack-example#readme",
   "devDependencies": {
+    "css-loader": "^0.28.10",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "html-webpack-plugin": "^2.30.1",
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.6",
     "webpack": "^4.0.0"
+  },
+  "dependencies": {
+    "webpack-cli": "^2.0.9"
   }
 }
